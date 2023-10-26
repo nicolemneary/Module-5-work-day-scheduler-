@@ -1,10 +1,7 @@
 # Module-5-work-day-scheduler-
 HW#5
 
-
-# My-Planner-Work-Day-Scheduler
 This is our daily planner task to arrange our day 
-
 
 
 ## The Task
