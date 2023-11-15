@@ -27,7 +27,7 @@ This is our daily planner task to arrange our day
 
 ## Preview
 
-<img src="assets/planner-preview.png.">
+<img src="assets/planner-preview.png">
 
 
 ## Links to Repository
